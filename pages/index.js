@@ -12,7 +12,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1>Prabhu11D</h1>
-        <p>Here, I'm writing my Journey</p>
+        <p>Here, I&apos;m writing my Journey</p>
         <div className='tags'>
           <p className='tag'>Development</p>
           <p className='tag'>Life</p>
